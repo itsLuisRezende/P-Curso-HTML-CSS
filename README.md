@@ -17,8 +17,4 @@ O resultado é um conjunto de exercícios, demos ou páginas estáticas estrutur
 - Organização de arquivos e pastas para manter o projeto limpo e de fácil navegação  
 - Prática com controle de versão usando Git e publicação no GitHub  
 
-## 5. Existem melhorias a serem feitas?
-- Criar um README mais detalhado com descrição de cada exercício ou seção, para facilitar a navegação e compreensão de quem visita o repositório  
-- Adicionar exemplos interativos ou deploy via GitHub Pages para visualização online das páginas criadas  
-- Incluir desafios adicionais ou versões avançadas dos exercícios (por exemplo: responsividade mobile, animações CSS, formulários)  
-- Utilizar frameworks CSS ou pré-processadores (como SASS) para explorar técnicas avançadas de estilo e componentes
+
